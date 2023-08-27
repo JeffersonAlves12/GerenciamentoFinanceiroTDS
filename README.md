@@ -3,7 +3,7 @@ Proposta: Aplicativo de Gerenciamento Financeiro
 
 Imagine um aplicativo financeiro que transforma o gerenciamento de finanças em uma experiência interativa. Através de seu smartphone ou tablet, obtenha não apenas um controle preciso de despesas e receitas, mas também insights valiosos como categorizações inteligentes, gráficos de tendências e alertas personalizados. Faça das suas finanças uma jornada simplificada e informada.
 
-- Registro de Receitas e Despesas: Os usuários poderão inserir suas receitas e despesas diárias de maneira fácil e rápida, mantendo um registro completo de suas transações financeiras.
+- *Registro de Receitas e Despesas:* Os usuários poderão inserir suas receitas e despesas diárias de maneira fácil e rápida, mantendo um registro completo de suas transações financeiras.
 - Categorização Inteligente: O aplicativo oferecerá uma funcionalidade de categorização automática, que classificará as transações em categorias como alimentação, moradia, transporte, entretenimento, etc. Isso fornecerá uma visão clara dos padrões de gastos.
 - Gráficos Analíticos: Os usuários poderão visualizar gráficos e relatórios interativos que destacam seu desempenho financeiro. Gráficos de tendências de gastos, análise de receitas mensais e visões de longo prazo ajudarão os usuários a identificar áreas de melhoria.
 - Lembretes e Alertas: O aplicativo enviará notificações para alertar os usuários sobre datas de vencimento de contas, pagamentos pendentes ou metas financeiras definidas. Isso ajudará a evitar atrasos e multas.
