@@ -1,5 +1,4 @@
 # Proposta: Aplicativo de Gerenciamento Financeiro
-Proposta: Aplicativo de Gerenciamento Financeiro
 
 Imagine um aplicativo financeiro que transforma o gerenciamento de finanças em uma experiência interativa. Através de seu smartphone ou tablet, obtenha não apenas um controle preciso de despesas e receitas, mas também insights valiosos como categorizações inteligentes, gráficos de tendências e alertas personalizados. Faça das suas finanças uma jornada simplificada e informada.
 
